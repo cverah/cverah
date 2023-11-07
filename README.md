@@ -3,6 +3,8 @@
 - 😍 In the future I would like to have a company dedicated to programming and technological solutions.
 - 💖 I like the challenges of programming and also playing soccer and spending time with my friends.
 
+<a href="https://portafolio-web-cmvh.netlify.app/" target="_blank">https://portafolio-web-cmvh.netlify.app/</a>
+
 ##  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcruzti&layout=compact)
 
